@@ -11,7 +11,7 @@ var outer = function(){
 // Above you're given a function that returns another function which has a closure over the name variable.
 // Invoke outer saving the return value into another variable called 'inner'.
 
-// Code Here
+
 
 
 //Once you do that, invoke inner.
